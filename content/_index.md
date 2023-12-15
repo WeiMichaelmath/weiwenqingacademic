@@ -67,7 +67,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: compact
       columns: '2'
  - block: collection
     content:
@@ -79,5 +79,4 @@ sections:
     design:
       columns: '2'
       view: citation
-  
 ---
