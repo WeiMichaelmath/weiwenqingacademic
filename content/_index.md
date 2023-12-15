@@ -42,10 +42,6 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  
-
- 
-
   - block: collection
     id: posts
     content:
@@ -71,12 +67,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: citation
+      view: compact
       columns: '2'
-
-  
-
-
  - block: collection
     content:
       title: Publications
