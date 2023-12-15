@@ -71,7 +71,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: citation
       columns: '2'
 
   
@@ -79,11 +79,7 @@ sections:
 
  - block: collection
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Publications
       filters:
         folders:
           - publication
