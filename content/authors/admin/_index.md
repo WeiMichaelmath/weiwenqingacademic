@@ -38,6 +38,6 @@ education:
 highlight_name: true
 ---
 
-I am Wenqing Wei. My Chinese name is 魏文青. I am an undergraduate student major in pure mathematics at the Chinese University of Hong Kong, Shenzhen. My research interests broadly lie in number theory, representation, and algebraic geometry. Here is my [CV](./CV.pdf).  
+I am Wenqing Wei. My Chinese name is 魏文青. I am an undergraduate student major in pure mathematics at the Chinese University of Hong Kong, Shenzhen. My research interests broadly lie in number theory, representation, and algebraic geometry. Here is my [CV](content/authors/admin/CV.pdf).  
  
 {style="text-align: justify;"}
