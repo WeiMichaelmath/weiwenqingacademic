@@ -2,8 +2,6 @@
 # Display name
 title: Wenqing Wei
 
-# Name pronunciation (optional)
-name_pronunciation: Wenqing Wei
 
 # Full name (for SEO)
 first_name: Wenqing 
@@ -40,6 +38,6 @@ education:
 highlight_name: true
 ---
 
-I am Wenqing Wei. My Chinese name is 魏文青. I am a math undergraduate student major in pure mathematics at Chinese University of Hong Kong, Shenzhen. My research interests broadly lie in number theory, representation, and algebraic geometry. Here is my 
+I am Wenqing Wei. My Chinese name is 魏文青. I am an undergraduate student major in pure mathematics at the Chinese University of Hong Kong, Shenzhen. My research interests broadly lie in number theory, representation, and algebraic geometry. Here is my 
  
 {style="text-align: justify;"}
