@@ -1,4 +1,3 @@
----
 # Leave the homepage title empty to use the site title
 title: ''
 date: 2022-10-24
@@ -42,7 +41,7 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
- - block: markdown
+  - block: markdown
     content:
       title: Gallery
       subtitle: ''

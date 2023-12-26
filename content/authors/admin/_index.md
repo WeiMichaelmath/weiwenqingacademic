@@ -46,7 +46,6 @@ I am Wenqing Wei. My Chinese name is <span style="font-family: '楷体';">魏文
 
 
 
-
 <span style="font-size: larger;"><strong>Published Writings</strong></span>
 
 📖Wenqing Wei. (2022). *Congruence Problems in Number Sequences*, Mathematical Olympiad Expert
@@ -61,7 +60,5 @@ Lectures, Zhejiang University Press. [Electronic version](Congruence.pdf) (in Ch
 5. [Fourier Transform on Adele Rings](Fourier.pdf)
 
 <span style="font-size: larger;"><strong>Awards</strong></span>
- <div style="display: flex;">
-    <div style="flex: 1; text-align: left;">🥇Shing-Tung Yau College Student Mathematics Contest: Bronze Medal in Algebra and Number Theory </div>
-    <div style="flex: 1; text-align: right;">2022</div>
-</div>
+ 🥇(2022)Shing-Tung Yau College Student Mathematics Contest: Bronze Medal in Algebra and Number Theory 
+    
