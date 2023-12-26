@@ -33,11 +33,11 @@ I am Wenqing Wei. My Chinese name is 魏文青. I am an undergraduate student ma
 
 <span style="font-size: larger;"><strong>Education</strong></span> 
 
- The Chinese University of Hong Kong, Shenzhen <div style="text-align: right;">Sep. 2020 - Present </div>
+ The Chinese University of Hong Kong, Shenzhen <div style="text-align: right; display: inline;">Sep. 2020 - Present </div>
 
 - B.S. in Mathematics and Applied Mathematics, Pure Mathematics Stream
 
- University of California, Berkeley  <div style="text-align: right;"> Jan. 2023 - Jun. 2023 </div>
+ University of California, Berkeley  <div style="text-align: right; display: inline;"> Jan. 2023 - Jun. 2023 </div>
 
 - Exchange Study in Department of Mathematics
 
