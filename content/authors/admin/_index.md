@@ -59,3 +59,26 @@ Lectures, Zhejiang University Press. [Electronic version](Congruence.pdf) (in Ch
 4. [Complex Multiplication and Hilbert Class Fields for Imaginary Quadratic Fields](Complex.pdf)
 5. [Fourier Transform on Adele Rings](Fourier.pdf)
 
+<span style="font-size: larger;"><strong>Awards</strong></span>
+ <div style="display: flex;">
+    <div style="flex: 1; text-align: left;">🥇Shing-Tung Yau College Student Mathematics Contest: Bronze Medal in Algebra and Number Theory </div>
+    <div style="flex: 1; text-align: right;">2022</div>
+</div>
+ <div style="display: flex;">
+    <div style="flex: 1; text-align: left;">🥇University Academic Performance Scholarship </div>
+    <div style="flex: 1; text-align: right;">2021,2022,2023</div>
+</div>
+ <div style="display: flex;">
+    <div style="flex: 1; text-align: left;">🥇Candidate for National Scholarship </div>
+    <div style="flex: 1; text-align: right;">2022</div>
+</div>
+ <div style="display: flex;">
+    <div style="flex: 1; text-align: left;">🥇National College Student Mathematical Modeling Competition, Guangdong Division, Outstanding Award </div>
+    <div style="flex: 1; text-align: right;">2021</div>
+</div>
+ <div style="display: flex;">
+    <div style="flex: 1; text-align: left;">🥇Dean's list of School of Science and Engineering 
+ </div>
+    <div style="flex: 1; text-align: right;">2021,2022,2023</div>
+</div>
+ 
