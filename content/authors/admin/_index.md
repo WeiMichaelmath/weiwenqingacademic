@@ -33,13 +33,16 @@ I am Wenqing Wei. My Chinese name is <span style="font-family: '楷体';">魏文
 
 <span style="font-size: larger;"><strong>Education</strong></span> 
 
- <div style="text-align: left;">The Chinese University of Hong Kong, Shenzhen</div><div style="text-align: right;">Sep. 2020 - Present </div>
-
-- B.S. in Mathematics and Applied Mathematics, Pure Mathematics Stream
-
- <div style="text-align: left;">University of California, Berkeley</div><div style="text-align: right;"> Jan. 2023 - Jun. 2023 </div>
-
-- Exchange Study in Department of Mathematics
+ <div style="display: flex;">
+    <div style="flex: 1; text-align: left;">🎓The Chinese University of Hong Kong, Shenzhen</div>
+    <div style="flex: 1; text-align: right;">Sep. 2020 - Present</div>
+</div>
+- <small>B.S. in Mathematics and Applied Mathematics, Pure Mathematics Stream</small>
+ <div style="display: flex;">
+    <div style="flex: 1; text-align: left;">🎓University of California, Berkeley</div>
+    <div style="flex: 1; text-align: right;"> Jan. 2023 - Jun. 2023 </div>
+</div>
+- <small>Exchange Study in Department of Mathematics</small>
 
 
 <span style="font-size: larger;"><strong>Published Writings</strong></span>
