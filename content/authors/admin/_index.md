@@ -60,5 +60,6 @@ Lectures, Zhejiang University Press. [Electronic version](Congruence.pdf) (in Ch
 5. [Fourier Transform on Adele Rings](Fourier.pdf)
 
 <span style="font-size: larger;"><strong>Awards</strong></span>
- 🥇(2022)Shing-Tung Yau College Student Mathematics Contest: Bronze Medal in Algebra and Number Theory 
+
+ 🥇(2022) Shing-Tung Yau College Student Mathematics Contest: Bronze Medal in Algebra and Number Theory 
     

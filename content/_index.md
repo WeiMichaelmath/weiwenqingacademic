@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: markdown
     content:
-      title: Gallery
+      title: Photographs
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
