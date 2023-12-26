@@ -27,17 +27,17 @@ bio:
 highlight_name: true
 ---
 
-I am Wenqing Wei. My Chinese name is 魏文青. I am an undergraduate student major in pure mathematics. My research interests broadly lie in number theory, representation theory, and algebraic geometry. Here is my [CV](CV.pdf).  
+I am Wenqing Wei. My Chinese name is <span style="font-family: '楷体';">魏文青</span>. I am an undergraduate student major in pure mathematics. My research interests broadly lie in number theory, representation theory, and algebraic geometry. Here is my [CV](CV.pdf).  
  
 {style="text-align: justify;"}
 
 <span style="font-size: larger;"><strong>Education</strong></span> 
 
- The Chinese University of Hong Kong, Shenzhen <div style="text-align: right; display: inline;">Sep. 2020 - Present </div>
+ <div style="text-align: left;">The Chinese University of Hong Kong, Shenzhen</div><div style="text-align: right;">Sep. 2020 - Present </div>
 
 - B.S. in Mathematics and Applied Mathematics, Pure Mathematics Stream
 
- University of California, Berkeley  <div style="text-align: right; display: inline;"> Jan. 2023 - Jun. 2023 </div>
+ <div style="text-align: left;">University of California, Berkeley</div><div style="text-align: right;"> Jan. 2023 - Jun. 2023 </div>
 
 - Exchange Study in Department of Mathematics
 
