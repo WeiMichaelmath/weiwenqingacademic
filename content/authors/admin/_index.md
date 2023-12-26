@@ -45,12 +45,13 @@ I am Wenqing Wei. My Chinese name is 魏文青. I am an undergraduate student ma
 <span style="font-size: larger;"><strong>Published Writings</strong></span>
 
 Wenqing Wei. (2022). *Congruence Problems in Number Sequences*, Mathematical Olympiad Expert
-Lectures, Zhejiang University Press. [Electronic version](Congruence Problems in Number Sequences.pdf) (in Chinese), [Contents](Contents.pdf) (in English).
+Lectures, Zhejiang University Press. [Electronic version](Congruence&Problems&in&Number&Sequences.pdf) (in Chinese), [Contents](Contents.pdf) (in English).
 
 <span style="font-size: larger;"><strong>Expository Papers</strong></span>
 
-1. [Opers and the Center of Affine Kac Moody Vertex Algebra](Opers and the Center of Affine Kac Moody Vertex Algebra.pdf)
-2. [Gaudin model, Center theorems, and Vertex algebras](Gaudin model, Center theorems, and Vertex algebras.pdf)
-3. [Modular forms and Hecke operators](Modular forms and Hecke operators.pdf)
-4. [Complex Multiplication and Hilbert Class Fields for Imaginary Quadratic Fields](Complex Multiplication and Hilbert Class Fields for Imaginary Quadratic Fields.pdf)
-5. [Fourier Transform on Adele Rings](Fourier Transform on Adele Rings.pdf)
+1. [Opers and the Center of Affine Kac Moody Vertex Algebra](Opers&and&the&Center&of&Affine&Kac&Moody&Vertex&Algebra.pdf)
+2. [Gaudin model, Center theorems, and Vertex algebras](Gaudin&model,&Center&theorems,&and&Vertex&algebras.pdf)
+3. [Modular forms and Hecke operators](Modular&forms&and&Hecke&operators.pdf)
+4. [Complex Multiplication and Hilbert Class Fields for Imaginary Quadratic Fields](Complex&Multiplication&and&Hilbert&Class&Fields&for&Imaginary&Quadratic&Fields.pdf)
+5. [Fourier Transform on Adele Rings](Fourier&Transform&on&Adele&Rings.pdf)
+
