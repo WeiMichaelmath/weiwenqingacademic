@@ -30,15 +30,16 @@ highlight_name: true
 I am Wenqing Wei. My Chinese name is 魏文青. I am an undergraduate student major in pure mathematics at the Chinese University of Hong Kong, Shenzhen. My research interests broadly lie in number theory, representation, and algebraic geometry. Here is my [CV](CV.pdf).  
  
 {style="text-align: justify;"}
-<span style="font-size: larger;"><strong>Education</strong></span>
-education:
-  courses:
-    - course: The Chinese University of Hong Kong, Shenzhen 
-      institution: Undergradute. 
-      year: Sep. 2020-present
-    - course: University of California, Berkeley 
-      institution: Exchange student. 
-      year: Jan. 2023- Jun. 2023
+
+# Education
+
+## University of California, Berkeley | <location> Berkeley, CA, USA </location> <time> Aug 2023 - Present </time>
+
+- Ph.D. student, Chemical and Biomolecular Engineering
+
+## University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 - Jun 2023 </time>
+
+- B.S. in Chemical Engineering: Nanoscience and Molecular Engineering, *summa cum laude*
 
 
 <span style="font-size: larger;"><strong>Published Writings</strong></span>
