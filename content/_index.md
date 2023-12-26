@@ -42,30 +42,6 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: markdown
-    content:
-      title: 
-      text: |-
-        <span style="font-size: larger;"><strong>Published Writings</strong></span>
-        
-        📖Wenqing Wei. (2022). *Congruence Problems in Number Sequences*, Mathematical Olympiad Expert
-        Lectures, Zhejiang University Press. [Electronic version](Congruence.pdf) (in Chinese), [Contents](Contents.pdf) (in English).
-
-        <span style="font-size: larger;"><strong>Expository Papers</strong></span>
-
-        1. [Opers and the Center of Affine Kac Moody Vertex Algebra](Opers.pdf)
-        2. [Gaudin model, Center theorems, and Vertex algebras](Gaudin.pdf)
-        3. [Modular forms and Hecke operators](Modular.pdf)
-        4. [Complex Multiplication and Hilbert Class Fields for Imaginary Quadratic Fields](Complex.pdf)
-        5. [Fourier Transform on Adele Rings](Fourier.pdf)
-
-        <span style="font-size: larger;"><strong>Awards</strong></span>
-        <div style="display: flex;">
-          <div style="flex: 1; text-align: left;">🥇Shing-Tung Yau College Student Mathematics Contest: Bronze Medal in Algebra and Number Theory </div>
-          <div style="flex: 1; text-align: right;">2022</div>
-        </div>
-    design:
-      columns: '1'
  - block: markdown
     content:
       title: Gallery

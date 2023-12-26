@@ -43,3 +43,25 @@ I am Wenqing Wei. My Chinese name is <span style="font-family: '楷体';">魏文
     <div style="flex: 1; text-align: right;"> Jan. 2023 - Jun. 2023 </div>
 </div>
 - <small>Exchange Study in Department of Mathematics</small>
+
+
+
+
+<span style="font-size: larger;"><strong>Published Writings</strong></span>
+
+📖Wenqing Wei. (2022). *Congruence Problems in Number Sequences*, Mathematical Olympiad Expert
+Lectures, Zhejiang University Press. [Electronic version](Congruence.pdf) (in Chinese), [Contents](Contents.pdf) (in English).
+
+<span style="font-size: larger;"><strong>Expository Papers</strong></span>
+
+1. [Opers and the Center of Affine Kac Moody Vertex Algebra](Opers.pdf)
+2. [Gaudin model, Center theorems, and Vertex algebras](Gaudin.pdf)
+3. [Modular forms and Hecke operators](Modular.pdf)
+4. [Complex Multiplication and Hilbert Class Fields for Imaginary Quadratic Fields](Complex.pdf)
+5. [Fourier Transform on Adele Rings](Fourier.pdf)
+
+<span style="font-size: larger;"><strong>Awards</strong></span>
+ <div style="display: flex;">
+    <div style="flex: 1; text-align: left;">🥇Shing-Tung Yau College Student Mathematics Contest: Bronze Medal in Algebra and Number Theory </div>
+    <div style="flex: 1; text-align: right;">2022</div>
+</div>
