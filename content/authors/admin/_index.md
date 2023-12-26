@@ -31,15 +31,15 @@ I am Wenqing Wei. My Chinese name is 魏文青. I am an undergraduate student ma
  
 {style="text-align: justify;"}
 
-# Education
+<span style="font-size: larger;"><strong>Education</strong></span> 
 
-## University of California, Berkeley | <location> Berkeley, CA, USA </location> <time> Aug 2023 - Present </time>
+ The Chinese University of Hong Kong, Shenzhen |<time> Sep. 2020 - Present </time>
 
-- Ph.D. student, Chemical and Biomolecular Engineering
+- B.S. in Mathematics and Applied Mathematics, Pure Mathematics Stream
 
-## University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 - Jun 2023 </time>
+ University of California, Berkeley | <time> Jan. 2023 - Jun. 2023 </time>
 
-- B.S. in Chemical Engineering: Nanoscience and Molecular Engineering, *summa cum laude*
+- Exchange Study in Department of Mathematics
 
 
 <span style="font-size: larger;"><strong>Published Writings</strong></span>
